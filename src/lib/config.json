@@ -123,7 +123,8 @@
           "peopleNum": "Number Of Guests",
           "extraPerson": "Add. Guest",
           "minNumNights": "Min. Stay",
-          "collective-meadow-holly": "Really Nice"
+          "collective-meadow-holly": "Really Nice",
+          "fuzzy-mulberry": "<p>How could this happen. I don't really know.</p>"
         }
       },
       "de": {
@@ -229,7 +230,7 @@
           "peopleNum": "Anzahl der Gäste",
           "extraPerson": "Zus. Gast",
           "minNumNights": "Min. Aufenthalt",
-          "collective-meadow-holly": "Etwas"
+          "collective-meadow-holly": "Sehr schön"
         }
       },
       "pl": {
@@ -335,7 +336,7 @@
           "peopleNum": "Liczba gości",
           "extraPerson": "Dodatkowy gość",
           "minNumNights": "Min. pobyt",
-          "collective-meadow-holly": "Coś"
+          "collective-meadow-holly": "Naprawdę miłe"
         }
       },
       "fr": {
@@ -441,7 +442,7 @@
           "peopleNum": "Nombre de personnes",
           "extraPerson": "Personne suppl.",
           "minNumNights": "Nuit min.",
-          "collective-meadow-holly": "Quelque chose"
+          "collective-meadow-holly": "Très agréable"
         }
       },
       "es": {
@@ -547,7 +548,7 @@
           "peopleNum": "Número de Invitados",
           "extraPerson": "Invitado Adicional",
           "minNumNights": "Estadía Mínima",
-          "collective-meadow-holly": "Algo"
+          "collective-meadow-holly": "Muy bien"
         }
       }
     },
